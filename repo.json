@@ -5824,4 +5824,22 @@
       ]
     }
   ]
+},{
+ {
+  "id": "grafana-treeschema-panel",
+  "type": "panel",
+  "url": "https://github.com/rashika-veera/Treeschema",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "url": "https://github.com/rashika-veera/Treeschema",
+      "download": {
+        "any": {
+          "url": "https://github.com/rashika-veera/Treeschema",
+          "md5": "782c973460f330287b7efca5486aa015"
+        }
+      }
+    }
+  ]
+} 
 }
