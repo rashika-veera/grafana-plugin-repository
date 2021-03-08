@@ -5825,7 +5825,7 @@
     }
   ]
 },{
- {
+ 
   "id": "grafana-treeschema-panel",
   "type": "panel",
   "url": "https://github.com/rashika-veera/Treeschema",
@@ -5841,5 +5841,4 @@
       }
     }
   ]
-} 
 }
