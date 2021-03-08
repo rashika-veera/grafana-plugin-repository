@@ -5826,7 +5826,7 @@
   ]
 },{
  
-  "id": "grafana-treeschema-panel",
+  "id": "myorgid-simple-panel",
   "type": "panel",
   "url": "https://github.com/rashika-veera/Treeschema",
   "versions": [
@@ -5835,8 +5835,8 @@
       "url": "https://github.com/rashika-veera/Treeschema",
       "download": {
         "any": {
-          "url": "https://github.com/rashika-veera/Treeschema",
-          "md5": "782c973460f330287b7efca5486aa015"
+          "url": "https://github.com/rashika-veera/TreeZip",
+          "md5": "d0b312f819f1f019b3c0b42e71547f48"
         }
       }
     }
